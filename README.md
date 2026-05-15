@@ -6,6 +6,7 @@ Simple Instagram-style relational database built with C#, Entity Framework Core,
 ## Database Diagram
 
 ![Database Diagram](./images/database-diagram.png)
+
 ## Features
 
 - Users
@@ -25,3 +26,6 @@ Simple Instagram-style relational database built with C#, Entity Framework Core,
 - Entity Framework Core
 - SQLite
 
+## Run
+```bash
+dotnet ef database update
